@@ -1,2 +1,2 @@
 ﻿# image-recognition
-图像识别distributedd
+图像识别distributeddd
